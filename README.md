@@ -63,6 +63,23 @@ FotolifeのURLではなく、他のページのURL(画像ではgoogle)となっ�
 
 ![画像確認方法](img/2021-06-20_03.png)
 
+### iPhone(iOS)環境でスターがつけれない
+[cubickさんの投稿より](https://h.sudo.ne.jp/cubick/entry/293654149302718464)  
+
+iOSではセキュリティのためサードパーティクッキーがブロックされています。  
+以下のどちらかの対応で回避することが可能です。  
+
+1. サードパーティクッキーの許可する
+  - Safari の場合  
+    設定 > Safari > 「サイト越えトラッキングを防ぐ」をオフに変更  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DGgh5TQb5hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+    
+  - Chrome 等の場合  
+    設定 > (ブラウザ) > 「サイト越えトラッキングを許可」をオンに変更  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sJKalTgkPHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+    
+2. Firefoxをインストールする
+
 ## 寄付や支援について
 芝刈り機を送りたいですが、現状では寄付等の支援で公開された情報はありません。
 
