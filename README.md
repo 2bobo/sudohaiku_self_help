@@ -72,13 +72,14 @@ iOSではセキュリティのためサードパーティクッキーがブロ�
 1. サードパーティクッキーの許可する
   - Safari の場合  
     設定 > Safari > 「サイト越えトラッキングを防ぐ」をオフに変更  
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/DGgh5TQb5hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+    [![alt設定](http://img.youtube.com/vi/DGgh5TQb5hY/0.jpg)](https://www.youtube.com/watch?v=DGgh5TQb5hY)  
     
   - Chrome 等の場合  
     設定 > (ブラウザ) > 「サイト越えトラッキングを許可」をオンに変更  
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sJKalTgkPHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-    
+    [![alt設定](http://img.youtube.com/vi/sJKalTgkPHw/0.jpg)](https://www.youtube.com/watch?v=sJKalTgkPHw)  
+
 2. Firefoxをインストールする
+
 
 ## 寄付や支援について
 芝刈り機を送りたいですが、現状では寄付等の支援で公開された情報はありません。
