@@ -73,11 +73,9 @@ iOSではセキュリティのためサードパーティクッキーがブロ�
   - Safari の場合  
     設定 > Safari > 「サイト越えトラッキングを防ぐ」をオフに変更  
     [![alt設定](http://img.youtube.com/vi/DGgh5TQb5hY/0.jpg)](https://www.youtube.com/watch?v=DGgh5TQb5hY)  
-    
   - Chrome 等の場合  
     設定 > (ブラウザ) > 「サイト越えトラッキングを許可」をオンに変更  
-    [![alt設定](http://img.youtube.com/vi/sJKalTgkPHw/0.jpg)](https://www.youtube.com/watch?v=sJKalTgkPHw)  
-
+    [![alt設定](http://img.youtube.com/vi/sJKalTgkPHw/0.jpg)](https://www.youtube.com/watch?v=sJKalTgkPHw)
 2. Firefoxをインストールする
 
 
