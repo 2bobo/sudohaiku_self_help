@@ -82,6 +82,16 @@ iOSではセキュリティのためサードパーティクッキーがブロ�
     [![](http://img.youtube.com/vi/sJKalTgkPHw/0.jpg)](https://www.youtube.com/watch?v=sJKalTgkPHw)
 2. Firefoxをインストールする
 
+### はてな記法は使える？
+
+- 本文中のURLは自動でリンクされますが、`[https://～～～:title]` のような形式でリンクにタイトルを設定することはできません。
+
+現状使用できるのは…
+
+- `id:XXXXX` 形式のid記法。 (SudoHaiku内で該当ユーザページへのリンクに変換される。現状では"idコールされた"という通知はされない？)
+- `f:id:XXXXX:XXXXX:image` 形式のfotolife記法。画像がインライン (埋め込み) で表示されます。
+
+※ [Sudofoxさんの発言](https://h.sudo.ne.jp/austinburk/entry/294289313666043904) によれば、上記以外にも今後機能を拡張する予定ではあるとのこと。
 
 ## 寄付や支援について
 芝刈り機を送りたいですが、現状では寄付等の支援で公開された情報はありません。
