@@ -71,17 +71,19 @@ OSとブラウザの組み合わせで現象の発生度合いは変わります
 ### iPhone(iOS)環境でスターが付けられない
 [cubickさんの投稿より](https://h.sudo.ne.jp/cubick/entry/293654149302718464)  
 
-iOSではセキュリティのためサードパーティクッキーがブロックされています。  
-以下のどちらかの対応で回避することが可能です。  
+iOSではプライバシー保護のためサードパーティクッキーがブロックされています。  
+そのため、サードパーティクッキーの許可を有効化する必要があります。  
+この問題はSudoHaikuだけでの問題ではなく、その他のはてなのページではてなスターを利用する場合に発生します。  
+[sudoさんの説明](https://h.sudo.ne.jp/austinburk/entry/296666100874219520)  
 
-1. サードパーティクッキーの許可する  
-  - Safari の場合  
+#### 対応方法
+- Safari の場合  
     設定 > Safari > 「サイト越えトラッキングを防ぐ」をオフに変更  
     [![](http://img.youtube.com/vi/DGgh5TQb5hY/0.jpg)](https://www.youtube.com/watch?v=DGgh5TQb5hY)  
-  - Chrome 等の場合  
+- Chrome,Firefox 等の場合  
     設定 > (ブラウザ) > 「サイト越えトラッキングを許可」をオンに変更  
-    [![](http://img.youtube.com/vi/sJKalTgkPHw/0.jpg)](https://www.youtube.com/watch?v=sJKalTgkPHw)
-2. Firefoxをインストールする
+    [![](http://img.youtube.com/vi/sJKalTgkPHw/0.jpg)](https://www.youtube.com/watch?v=sJKalTgkPHw)  
+    ※ Firefoxはサイト単位で許可をすることが可能です。  
 
 ### はてな記法は使える？
 
